@@ -1,4 +1,4 @@
-# Desc: Problem Set 1 - Problem 1 - Counting Vowels
+# Desc: Problem Set 1 - Problem 1 - Counting Vowels.
 # Author: Javier Herrero Arnanz.
 
 # String to evaluate.
