@@ -1,4 +1,4 @@
-# Desc: Problem Set 3 - Problem 2 - Hangman game
+# Desc: Problem Set 3 - Problem 2 - Hangman game.
 # Author: Javier Herrero Arnanz.
 
 import random
@@ -40,6 +40,8 @@ def chooseWord(wordlist):
 # Load the list of words into the variable wordlist
 # so that it can be accessed from anywhere in the program
 wordlist = loadWords()
+
+
 
 def isWordGuessed(secretWord, lettersGuessed):
     '''
