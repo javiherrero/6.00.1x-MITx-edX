@@ -1,4 +1,4 @@
-# Desc: Problem Set 1 - Problem 2 - Counting Bobs
+# Desc: Problem Set 1 - Problem 2 - Counting Bobs.
 # Author: Javier Herrero Arnanz.
 
 # String to evaluate.
