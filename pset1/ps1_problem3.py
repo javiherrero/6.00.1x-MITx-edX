@@ -1,4 +1,4 @@
-# Desc: Problem Set 1 - Problem 3 - Alphabetical Substrings
+# Desc: Problem Set 1 - Problem 3 - Alphabetical Substrings.
 # Author: Javier Herrero Arnanz.
 
 # String to evaluate.
