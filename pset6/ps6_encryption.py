@@ -25,6 +25,7 @@ def loadWords():
 def isWord(wordList, word):
     """
     Determines if word is a valid word.
+    
 
     wordList: list of words in the dictionary.
     word: a possible word.
