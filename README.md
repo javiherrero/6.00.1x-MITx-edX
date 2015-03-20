@@ -2,4 +2,4 @@
 
 My solutions to some of the exercises of the 6.00.1x course.
 
-Programming Language: Pyhton
+Programming Language: Pyhton.
